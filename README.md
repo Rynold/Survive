@@ -1,0 +1,2 @@
+# Survive
+This is a Unity Game I worked on by myself for school. Its a first person shooter where you have to survive for 5 minutes in an arena where skeleton enemys try to kill you. Stepping in the acid pools will do damage to you and slow you down, and into the fire will also hurt you. Temporary power ups will spawn in the center of the arena to give you an edge. As you kill the enemies they will drop health and ammo.
